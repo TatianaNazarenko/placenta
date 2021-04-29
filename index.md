@@ -1,10 +1,8 @@
 [old page](old.md)
 
+# Best correlations 
 
-
-# (One-parametr) Comparison between the Control and Case groups was by chi- square test for categorical variables and Wilcoxon test for continuous variables
-
-![Image](./images/one_param_tests.png)
+![Image](./images/1_best_regressions.png)
 
 
 
