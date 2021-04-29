@@ -1,5 +1,3 @@
-[old page](old.md)
-
 # Best correlations 
 
 ![Image](./images/1_best_regressions.png)
