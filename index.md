@@ -7,7 +7,7 @@
 
 # Results
 
-[my link](./images/predictions_sep.htm)
+![my link](./images/predictions_sep.htm)
                               |
 
 
