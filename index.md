@@ -6,9 +6,10 @@
 
 
 # Results
-| ALL SIGNS |        |                             | ONLY VOL & VOLDENS signs                       |
+|           |               ALL SIGNS              |        ONLY VOL & VOLDENS signs                |
 | --------- | ------ | --------------------------- | ---------------------------------------------- |
 | id        | status | prediction (in round loocv) | binary predcition (gotten in each round loocv) |           |  | id      | status                   | prediction (in round loocv) | binary predcition (gotten in each round loocv) |
+| --------- | ------ | --------------------------- | ---------------------------------------------- |
 | AB        | 0      | 0.30385954                  | 0                                              |           |  | AB      | 0                        | 0.25091382                  | 0                                              |
 | AB        | 0      | 0.42502339                  | 0                                              |           |  | AB      | 0                        | 0.25137469                  | 0                                              |
 | AB        | 0      | 0.2832021                   | 0                                              |           |  | AB      | 0                        | 0.32097584                  | 0                                              |
