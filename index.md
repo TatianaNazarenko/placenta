@@ -2,7 +2,7 @@
 
 ![Image](./images/1_best_regressions.png)
 
-
+![Image](./images/1_best_regressions2.png)
 
 
 # Results
