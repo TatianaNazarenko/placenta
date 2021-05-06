@@ -2,9 +2,9 @@
 
 ```
 aov = anova(lm(p2~p1,data),lm(p2~p1*status,data))
-got p-value
-fdr calculated 
-significance in Central and Peripheral indicated 
+p-value
+fdr 
+significance in Central and Peripheral
 ```
 ## Common regressions
 ![Image](./images/1_best_regressions.png)
@@ -24,13 +24,15 @@ LOOCV procedure:
 considering to types of models:
 - on all signs
 - only on Volume and VolDens signs
-[all together measurements](./images/predictions_together.htm) 
+
+[results](./images/predictions_together.htm) 
 
 ## Separately central and peripheral parts
 considering to types of models:
 - on all signs
 - only on Volume and VolDens signs
-[separated measurements (central and peripheral)](./images/predictions_sep.htm)
+
+[results](./images/predictions_sep.htm)
 
                           
 
