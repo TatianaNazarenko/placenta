@@ -1,8 +1,5 @@
-
-
-
-
-# Best correlations 
+# CORRELATION PLOTS
+## Best correlations 
 ```
 aov = anova(lm(p2~p1,data),lm(p2~p1*status,data))
 p-value
@@ -10,21 +7,25 @@ fdr
 significance in Central and Peripheral
 ```
 
-## Common regressions for STEREOLOGY (see Figures on old_page)
-## Each line - one patient for STEREOLOGY (see Figures on old page)
+### Common regressions for STEREOLOGY ([see Figures on old page](old_page.md))
+### Each line - one patient for STEREOLOGY  ([see Figures on old page](old_page.md))
 
-## Common regressions for PCR
+### Common regressions for PCR
 ![Image](./images/pcr_1_best_regressions.png)
 
-## Each line - one patient for PCR
+### Each line - one patient for PCR
 ![Image](./images/pcr_1_best_regressions2.png)
 
-# NOTE
+# MODELS
+
+## EXCLUDED
+Samples MS (without PCR data) and KH (without STEREOLOGY data) were excluded for uniformity
+## NOTE
 - considering ML models: *glmnet, xgbtree, nnet*
 - considering ML models on measurements: ONLY PERIPHERAL, ONLY CENTRAL, PERIPHERAL & CENTRAL
 - considering ML models on signs: ONLY STEREOLOGY, ONLY PCR, STEREOLOGY	& PCR
 
-# Results
+## Results
 
 LOOCV procedure:
 - excluding all measurements of one patient on each step
