@@ -9,8 +9,8 @@ fdr
 significance in Central and Peripheral
 ```
 ### STEREOLOGY
-Common regressions for STEREOLOGY ([see Figures on old page](old_page.md))\n
-
+Common regressions for STEREOLOGY ([see Figures on old page](old_page.md))
+ 
 Each line - one patient for STEREOLOGY  ([see Figures on old page](old_page.md))
 
 ### PCR
